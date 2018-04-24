@@ -1,0 +1,1072 @@
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-52-01_bag/24594.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-52-01_bag/24664.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-52-01_bag/24734.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 527.1012443072, x_min: 518.7379907959,
+    y_max: 296.3838188664, y_min: 278.7432988131}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/56988.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 140.2452731942, x_min: 125.7231604824, y_max: 312.4555852231,
+    y_min: 287.1471490007}
+  - {label: RedLeft, occluded: false, x_max: 399.345953546, x_min: 383.7076212983,
+    y_max: 294.4194307293, y_min: 257.8928460996}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57058.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 815.5665720428, x_min: 808.9702783529,
+    y_max: 276.8314457765, y_min: 262.3909109419}
+  - {label: RedLeft, occluded: false, x_max: 198.0566497789, x_min: 171.5274401568,
+    y_max: 257.8246898367, y_min: 196.7112877749}
+  - {label: Yellow, occluded: false, x_max: 903.9784382504, x_min: 896.2388614767,
+    y_max: 318.7570415356, y_min: 300.2800753152}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57128.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 789.5532240143, x_min: 784.2109844425,
+    y_max: 272.9118037884, y_min: 259.3689794926}
+  - {label: Yellow, occluded: false, x_max: 888.8925908244, x_min: 880.261596538,
+    y_max: 315.7486025268, y_min: 304.6370751733}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57196.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 769.9471917416, x_min: 765.4720682744,
+    y_max: 273.7404012575, y_min: 261.2845856626}
+  - {label: Red, occluded: false, x_max: 860.6634561323, x_min: 853.1795089352, y_max: 305.5028603386,
+    y_min: 289.0164594851}
+  - {label: Red, occluded: false, x_max: 874.6851859435, x_min: 867.2584758458, y_max: 318.6934394145,
+    y_min: 310.3448982226}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57266.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57336.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 753.6712964505, x_min: 748.9701466983, y_max: 269.0162762434,
+    y_min: 254.1710534316}
+  - {label: Red, occluded: false, x_max: 853.7677743736, x_min: 846.9036701938, y_max: 300.4683943997,
+    y_min: 283.293680842}
+  - {label: Red, occluded: false, x_max: 864.0586704867, x_min: 857.9826385076, y_max: 322.7160801041,
+    y_min: 306.7199959142}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/57406.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 768.4915147798, x_min: 762.7845814648, y_max: 272.3746850824,
+    y_min: 257.7842693401}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/58576.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 762.3200884801, x_min: 756.5425726347, y_max: 270.8547887782,
+    y_min: 256.2114098505}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/58646.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 671.5066344746, x_min: 663.123012507, y_max: 319.8039484486,
+    y_min: 302.0103269754}
+  - {label: GreenLeft, occluded: false, x_max: 750.327088115, x_min: 743.2465580897,
+    y_max: 287.1205905693, y_min: 270.5550530141}
+  - {label: Green, occluded: false, x_max: 867.4268430417, x_min: 859.2891147192,
+    y_max: 319.2051727395, y_min: 300.0575766866}
+  - {label: RedLeft, occluded: false, x_max: 383.6930021091, x_min: 375.2196261763,
+    y_max: 341.1912494802, y_min: 321.9842505986}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59388.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 702.5278439132, x_min: 691.7990546385,
+    y_max: 251.6807170391, y_min: 227.8620896163}
+  - {label: Yellow, occluded: false, x_max: 593.1119892559, x_min: 582.7836887425,
+    y_max: 293.6516104589, y_min: 272.1517220507}
+  - {label: Red, occluded: false, x_max: 198.5048357809, x_min: 188.218947241, y_max: 317.7730721334,
+    y_min: 294.2106664826}
+  - {label: Green, occluded: false, x_max: 899.70413646, x_min: 893.5252746714, y_max: 281.9604876578,
+    y_min: 260.9523575765}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59526.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 633.2854910052, x_min: 607.6577400945,
+    y_max: 95.9467360936, y_min: 36.6016479324}
+  - {label: RedLeft, occluded: false, x_max: 334.0620342401, x_min: 307.652346105,
+    y_max: 206.3341884261, y_min: 146.0115645591}
+  - {label: Green, occluded: false, x_max: 1079.8104772718, x_min: 1063.5429187433,
+    y_max: 242.1707415366, y_min: 201.7155042724}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59666.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59734.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59804.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59874.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/59944.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60012.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 637.4761745243, x_min: 632.9990022121,
+    y_max: 311.5260109997, y_min: 303.6909594533}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60082.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 631.8226857942, x_min: 625.7047943375,
+    y_max: 299.4462220732, y_min: 292.3415739299}
+  - {label: 'off', occluded: false, x_max: 558.4284613906, x_min: 551.729860126, y_max: 317.5427439772,
+    y_min: 307.9317073802}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60152.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 631.3610555493, x_min: 625.9359033343,
+    y_max: 299.2756231828, y_min: 290.659204959}
+  - {label: 'off', occluded: false, x_max: 547.9094494187, x_min: 542.3247339032,
+    y_max: 318.1040926348, y_min: 307.8920414066}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60222.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 630.6338388318, x_min: 624.3657975947,
+    y_max: 295.3683619139, y_min: 284.6231483646}
+  - {label: 'off', occluded: false, x_max: 534.7104220424, x_min: 527.3230877272,
+    y_max: 316.2991424736, y_min: 302.6437669213}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60290.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 639.603339784, x_min: 635.2616103631, y_max: 286.9046710888,
+    y_min: 275.6556448619}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60360.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60430.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60498.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 652.3046192552, x_min: 646.5531403972,
+    y_max: 283.2660705433, y_min: 271.6119458806}
+  - {label: Yellow, occluded: false, x_max: 586.4101717709, x_min: 580.6388890363,
+    y_max: 314.8710827733, y_min: 303.0597452382}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60568.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 583.8231024393, x_min: 577.3583184992, y_max: 313.1484697978,
+    y_min: 299.9603105599}
+  - {label: Green, occluded: false, x_max: 651.2975764238, x_min: 645.9555076882,
+    y_max: 280.6871411607, y_min: 269.2514949184}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60638.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 742.410962529, x_min: 736.5817157039, y_max: 322.0490636468,
+    y_min: 308.67046437609997}
+  - {label: Green, occluded: false, x_max: 646.429031712, x_min: 640.1573164821, y_max: 287.0145139772,
+    y_min: 273.9993998159}
+  - {label: Red, occluded: false, x_max: 574.2186339362, x_min: 569.0764409632, y_max: 320.9603136037,
+    y_min: 306.4569699404}
+  - {label: Green, occluded: false, x_max: 777.1363975822, x_min: 769.0103243278,
+    y_max: 316.6135302736, y_min: 307.7266661885}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60708.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 469.1904677768, x_min: 459.3944162187,
+    y_max: 307.878913466, y_min: 284.8147920759}
+  - {label: Red, occluded: false, x_max: 558.7426365332, x_min: 553.0295599851, y_max: 318.5129312283,
+    y_min: 303.2829327464}
+  - {label: Green, occluded: false, x_max: 637.8816199159, x_min: 631.0373968847,
+    y_max: 281.2255528419, y_min: 267.4515247782}
+  - {label: Green, occluded: false, x_max: 786.2859645952, x_min: 780.4656405893,
+    y_max: 312.6433766334, y_min: 303.5718550767}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60776.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 539.4497490672, x_min: 532.2908314975, y_max: 310.571108099,
+    y_min: 292.9868957819}
+  - {label: Green, occluded: false, x_max: 633.3324487633, x_min: 626.6038826034,
+    y_max: 268.3854998191, y_min: 251.9335482265}
+  - {label: Green, occluded: false, x_max: 827.7506220832, x_min: 819.5508364383,
+    y_max: 301.6589841623, y_min: 292.2289220933}
+  - {label: 'off', occluded: false, x_max: 415.0181466169, x_min: 401.7838768235,
+    y_max: 296.1887318148, y_min: 266.5439674777}
+  - {label: Green, occluded: false, x_max: 759.578905165, x_min: 751.2482645727, y_max: 313.9591669929,
+    y_min: 294.8292480662}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60846.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 812.6427954649, x_min: 803.5329770267,
+    y_max: 304.9526273097, y_min: 285.1253754148}
+  - {label: Green, occluded: false, x_max: 961.1679990258, x_min: 948.2806587238,
+    y_max: 281.53778283, y_min: 264.5900476383}
+  - {label: RedLeft, occluded: false, x_max: 286.4472348822, x_min: 266.8209489279,
+    y_max: 308.7016871439, y_min: 286.5324427809}
+  - {label: 'off', occluded: false, x_max: 291.7851188885, x_min: 269.747261458, y_max: 275.1551874594,
+    y_min: 224.0396014747}
+  - {label: RedLeft, occluded: false, x_max: 522.5074512682, x_min: 510.8220580098,
+    y_max: 305.3309437133, y_min: 280.3871234886}
+  - {label: Green, occluded: false, x_max: 646.9515613825, x_min: 637.1915613825,
+    y_max: 247.3890066784, y_min: 226.4290066784}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60916.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 455.8932882343, x_min: 438.0715060561,
+    y_max: 284.4291563181, y_min: 241.0628196844}
+  - {label: Green, occluded: false, x_max: 659.21533584, x_min: 643.1132389998, y_max: 197.4706800387,
+    y_min: 163.1890376112}
+  - {label: Green, occluded: false, x_max: 916.3076031494, x_min: 903.8547729607,
+    y_max: 289.6416320323, y_min: 270.5059000461}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/60986.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 154.3784629998, x_min: 103.826039099,
+    y_max: 176.9823756305, y_min: 63.0252166677}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61054.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61124.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61332.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61402.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61472.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61542.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61610.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61680.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61750.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61888.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 459.1457646549, x_min: 448.4145493246, y_max: 325.2545197159,
+    y_min: 303.4088313649}
+  - {label: Red, occluded: false, x_max: 557.6429910795, x_min: 551.5108680337, y_max: 308.3911813397,
+    y_min: 291.5278429635}
+  - {label: Yellow, occluded: false, x_max: 628.928921488, x_min: 622.0215202502,
+    y_max: 271.9904635659, y_min: 256.3290139275}
+  - {label: Yellow, occluded: false, x_max: 735.4745594104, x_min: 728.1926632934,
+    y_max: 312.2043815232, y_min: 294.8283748502}
+  - {label: Yellow, occluded: false, x_max: 816.8413632502, x_min: 806.3404996923,
+    y_max: 302.4699914069, y_min: 284.8810449475}
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/61958.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/65286.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/65496.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-10-55-33_bag/65772.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-11-26-32_bag/96802.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 401.9209109317, x_min: 384.0818986783,
+    y_max: 179.5365303201, y_min: 143.3959376254}
+  - {label: Green, occluded: false, x_max: 554.7363842219, x_min: 545.5533004289,
+    y_max: 202.3573451816, y_min: 175.606622828}
+  - {label: Red, occluded: false, x_max: 222.9601299999, x_min: 207.8333606196, y_max: 263.9506126104,
+    y_min: 229.2146000021}
+  - {label: Green, occluded: false, x_max: 659.2704401601, x_min: 647.8039593191,
+    y_max: 206.3361199781, y_min: 178.4424299826}
+  - {label: Green, occluded: false, x_max: 822.0243211628, x_min: 810.2475759065,
+    y_max: 284.5862816058, y_min: 254.69979495}
+  - {label: Red, occluded: false, x_max: 591.5985791421, x_min: 587.5331657232, y_max: 298.9177874996,
+    y_min: 290.0900326471}
+  - {label: Red, occluded: false, x_max: 564.6311974469, x_min: 559.7837830617, y_max: 312.2971979225,
+    y_min: 304.4667593002}
+  - {label: Green, occluded: false, x_max: 1072.1285956341, x_min: 1045.7871322195,
+    y_max: 246.2112311371, y_min: 188.6502555274}
+  path: ./rgb/additional/2015-10-05-11-26-32_bag/96870.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-11-26-32_bag/137042.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 635.5202269037, x_min: 629.5482419361, y_max: 270.8863530031,
+    y_min: 257.384473946}
+  - {label: Red, occluded: false, x_max: 691.0856522539, x_min: 684.075061205, y_max: 273.4828682064,
+    y_min: 257.6441254664}
+  - {label: Red, occluded: false, x_max: 785.0795026126, x_min: 777.2899570027, y_max: 305.4200052067,
+    y_min: 289.5812624667}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/451434.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/453032.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/475396.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 805.4095242275, x_min: 785.5750239092, y_max: 260.3458785548,
+    y_min: 215.3554266134}
+  - {label: Red, occluded: false, x_max: 778.802267703, x_min: 765.2567552905, y_max: 273.4076226669,
+    y_min: 244.8652929406}
+  - {label: Red, occluded: false, x_max: 545.648603489, x_min: 533.560238246, y_max: 209.3792137943,
+    y_min: 179.1583006868}
+  - {label: RedLeft, occluded: false, x_max: 431.0329922961, x_min: 418.7207684375,
+    y_max: 224.3777410403, y_min: 194.3806865484}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/485098.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 600.908655578, x_min: 594.8822238599, y_max: 302.9781699157,
+    y_min: 288.3808130875}
+  - {label: Green, occluded: false, x_max: 686.6354335646, x_min: 679.5376362077,
+    y_max: 301.0464915485, y_min: 285.779531196}
+  - {label: Green, occluded: false, x_max: 720.7344511637, x_min: 715.7760430737,
+    y_max: 336.2688584409, y_min: 322.7571963956}
+  - {label: 'off', occluded: false, x_max: 535.9396055584, x_min: 528.7499138278,
+    y_max: 304.266499862, y_min: 289.1433551874}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/492410.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 1012.4345132584, x_min: 998.5270464696,
+    y_max: 282.0127278138, y_min: 245.1277071999}
+  - {label: Green, occluded: false, x_max: 913.8729007985, x_min: 901.1747789478,
+    y_max: 304.9902816388, y_min: 282.0127278138}
+  - {label: Yellow, occluded: false, x_max: 274.1309877882, x_min: 266.047980474,
+    y_max: 304.4681809883, y_min: 281.5663269315}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/514516.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 239.5806240861, x_min: 228.7148295837,
+    y_max: 302.6271461189, y_min: 274.8805637287}
+  - {label: Green, occluded: false, x_max: 950.3639003042, x_min: 938.5918956513,
+    y_max: 309.2866660511, y_min: 278.5770886955}
+  - {label: Green, occluded: false, x_max: 1090.0924772721, x_min: 1077.8086463298,
+    y_max: 271.9233469351, y_min: 233.0245489514}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/514586.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/535946.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/536016.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 475.4878915319, x_min: 468.0697270277, y_max: 274.0880067065,
+    y_min: 256.3567842329}
+  - {label: Red, occluded: false, x_max: 191.0893587237, x_min: 181.2557173189, y_max: 319.2261248438,
+    y_min: 301.2878339295}
+  - {label: Green, occluded: false, x_max: 592.4713182428, x_min: 584.3294303723,
+    y_max: 276.8954251876, y_min: 258.8023410309}
+  - {label: Green, occluded: false, x_max: 857.3177408436, x_min: 848.0244094061,
+    y_max: 304.2229924851, y_min: 284.2315236951}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/539910.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/558388.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/558456.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 494.4009610891, x_min: 487.6698552211,
+    y_max: 347.1729584674, y_min: 332.3042469977}
+  - {label: RedLeft, occluded: false, x_max: 695.0116380169, x_min: 687.5772822821,
+    y_max: 337.050643341, y_min: 322.3828604047}
+  - {label: Green, occluded: true, x_max: 734.1673862117, x_min: 726.8332539533, y_max: 337.6557752595,
+    y_min: 330.0340299714}
+  path: ./rgb/additional/2015-10-05-14-40-46_bag/575176.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/591486.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/591556.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/601426.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/601496.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614150.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 663.4858257727, x_min: 644.4907724012, y_max: 211.1748489407,
+    y_min: 177.5377752619}
+  - {label: Red, occluded: false, x_max: 887.4228379678, x_min: 871.8350070894, y_max: 276.0639147796,
+    y_min: 241.6175640802}
+  - {label: Red, occluded: false, x_max: 405.3244579764, x_min: 396.9106385452, y_max: 290.9616835432,
+    y_min: 271.0876617833}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614496.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 958.5380569901, x_min: 938.0804889965,
+    y_max: 254.9625713868, y_min: 213.2465974706}
+  - {label: Green, occluded: false, x_max: 651.3987794822, x_min: 633.3582861147,
+    y_max: 182.639753312, y_min: 141.4296066981}
+  - {label: Green, occluded: false, x_max: 331.2311941132, x_min: 322.1221249961,
+    y_max: 281.5879031048, y_min: 255.4752383025}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614566.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 648.3162843514, x_min: 626.7280193033,
+    y_max: 159.4308379499, y_min: 110.4677625832}
+  - {label: Green, occluded: false, x_max: 870.7899183778, x_min: 861.5916643002,
+    y_max: 275.531735393, y_min: 247.7348137298}
+  - {label: Green, occluded: false, x_max: 279.8717246802, x_min: 269.1736854645,
+    y_max: 272.2654339012, y_min: 241.8968064503}
+  - {label: Green, occluded: false, x_max: 1026.5301401516, x_min: 1008.2563951173,
+    y_max: 236.1587679551, y_min: 186.7402052971}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614636.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614844.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614914.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/614982.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/615052.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 643.572632038, x_min: 635.3930238584, y_max: 273.1656992555,
+    y_min: 258.1278042176}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/615192.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 663.1964502353, x_min: 657.9494558299,
+    y_max: 349.9910419338, y_min: 340.1303110684}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/619168.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 647.2797557851, x_min: 639.7755152188,
+    y_max: 291.5875182154, y_min: 276.0394493669}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/619932.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620278.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620348.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620418.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620488.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620766.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620834.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 635.7496964844, x_min: 630.9838756039,
+    y_max: 316.6079892931, y_min: 309.326874059}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/620904.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 907.9087816934, x_min: 895.9163558571, y_max: 246.9363436279,
+    y_min: 215.27633942}
+  - {label: Red, occluded: false, x_max: 813.4084661032, x_min: 801.4160402669, y_max: 265.3247299103,
+    y_min: 243.2586663714}
+  - {label: Red, occluded: false, x_max: 658.6195180057, x_min: 645.4721217127, y_max: 202.1638099515,
+    y_min: 173.0517181598}
+  - {label: Yellow, occluded: false, x_max: 699.0814642161, x_min: 689.8934230463,
+    y_max: 285.3386573426, y_min: 272.4257346176}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/621252.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 1101.3960764993, x_min: 1081.1072130855,
+    y_max: 204.5603233648, y_min: 154.1047128467}
+  - {label: Red, occluded: false, x_max: 883.8677601293, x_min: 865.2478455418, y_max: 260.2446129517,
+    y_min: 221.6381845408}
+  - {label: Red, occluded: false, x_max: 670.2046591118, x_min: 651.1766767848, y_max: 174.2733198419,
+    y_min: 134.2985670542}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/621322.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 720.8934091811, x_min: 711.7564016819, y_max: 305.9912284327,
+    y_min: 295.9495667258}
+  - {label: Red, occluded: false, x_max: 726.3534991763, x_min: 718.865198678, y_max: 299.1813532448,
+    y_min: 283.6257076982}
+  - {label: Red, occluded: false, x_max: 644.477483388, x_min: 639.0073185401, y_max: 278.182978506,
+    y_min: 264.4193379209}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622044.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 480.0366553667, x_min: 471.6531274011,
+    y_max: 303.4772705839, y_min: 286.8003601148}
+  - {label: Green, occluded: false, x_max: 658.8208430316, x_min: 650.250565142, y_max: 267.636886444,
+    y_min: 247.0203804963}
+  - {label: Green, occluded: false, x_max: 747.278354107, x_min: 737.4837508045, y_max: 307.5566761314,
+    y_min: 288.3413631786}
+  - {label: Green, occluded: false, x_max: 764.4189098863, x_min: 753.7060625242,
+    y_max: 292.8308650283, y_min: 268.7521565737}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622114.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 844.8177666247, x_min: 829.3371810104,
+    y_max: 279.8302385825, y_min: 236.0856550032}
+  - {label: Green, occluded: false, x_max: 795.3282201082, x_min: 784.7259744464,
+    y_max: 307.4167185229, y_min: 284.9192704113}
+  - {label: Green, occluded: false, x_max: 683.616753623, x_min: 673.0145079612, y_max: 256.99140379,
+    y_min: 232.9424075328}
+  - {label: Green, occluded: false, x_max: 448.4327383154, x_min: 440.5708044933,
+    y_max: 301.6099100041, y_min: 283.3038925852}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622184.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 331.6205042221, x_min: 314.5021395666,
+    y_max: 290.0822719492, y_min: 254.2497628823}
+  - {label: Green, occluded: false, x_max: 999.6240745472, x_min: 974.6819587787,
+    y_max: 237.1923884509, y_min: 167.1085561155}
+  - {label: Green, occluded: false, x_max: 833.6793592758, x_min: 818.4950455503,
+    y_max: 307.6131735664, y_min: 269.3072912135}
+  - {label: Green, occluded: false, x_max: 676.8282060658, x_min: 662.4116511702,
+    y_max: 227.9900918489, y_min: 197.5551426249}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622254.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 711.6091900353, x_min: 689.1486656495,
+    y_max: 147.2882494735, y_min: 95.2334549529}
+  - {label: Green, occluded: false, x_max: 967.5788360561, x_min: 944.412654856, y_max: 267.6505422048,
+    y_min: 215.1564966111}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622322.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622392.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622462.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622532.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622600.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622670.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 651.3496275456, x_min: 645.513864212, y_max: 307.0695323227,
+    y_min: 299.3712913294}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622740.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 704.06710401, x_min: 698.2830233749, y_max: 315.4953681067,
+    y_min: 305.3507854011}
+  - {label: Red, occluded: false, x_max: 642.200535148, x_min: 634.2047306005, y_max: 284.5112081482,
+    y_min: 269.9884379644}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/622948.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 199.812169999, x_min: 186.6734838676, y_max: 270.7139221316,
+    y_min: 239.3270608177}
+  - {label: Green, occluded: false, x_max: 690.3643836426, x_min: 671.9374173504,
+    y_max: 133.3888107695, y_min: 85.5236422302}
+  - {label: Green, occluded: false, x_max: 936.5755102088, x_min: 923.2869196047,
+    y_max: 247.224208683, y_min: 214.4725308307}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/623806.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/624974.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/625044.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 602.6237788302, x_min: 596.6049227648,
+    y_max: 262.0890652201, y_min: 245.7521701856}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/625114.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 883.8212683301, x_min: 861.8389226134, y_max: 167.1430772049,
+    y_min: 117.7739469023}
+  - {label: 'off', occluded: false, x_max: 498.4215854749, x_min: 473.7265888852,
+    y_max: 19.1737279514, y_min: -17.6707975877}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/625322.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 936.8941736677, x_min: 915.6153648542,
+    y_max: 147.5721909979, y_min: 83.2862230598}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626182.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626322.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626392.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626460.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 612.2198445797, x_min: 605.2433702, y_max: 279.2220230536,
+    y_min: 265.4392322061}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626600.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 722.2449977953, x_min: 713.9628727764, y_max: 280.8227553659,
+    y_min: 258.6220591347}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626670.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 605.1360515995, x_min: 596.0162524675, y_max: 236.1460828999,
+    y_min: 209.7113002912}
+  - {label: Red, occluded: false, x_max: 773.5392410579, x_min: 759.0032850616, y_max: 249.8730179464,
+    y_min: 209.2772641434}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626738.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 598.6216894231, x_min: 586.281428385, y_max: 210.9760391864,
+    y_min: 180.5373869296}
+  - {label: Red, occluded: false, x_max: 765.262829714, x_min: 754.1108819261, y_max: 258.2169634411,
+    y_min: 229.6302088811}
+  - {label: Red, occluded: false, x_max: 846.5961155306, x_min: 822.2319744879, y_max: 195.8468980512,
+    y_min: 133.0602149439}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/626808.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 781.8950216987, x_min: 769.4870693229,
+    y_max: 268.5750894718, y_min: 234.0916312271}
+  - {label: 'off', occluded: false, x_max: 597.3654611707, x_min: 584.6898352031,
+    y_max: 213.0674556174, y_min: 178.453364222}
+  - {label: Green, occluded: false, x_max: 908.7289605931, x_min: 877.1527714291,
+    y_max: 173.0654201861, y_min: 99.6191209086}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627086.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 850.9654297511, x_min: 833.293874014, y_max: 214.2230884618,
+    y_min: 166.7151367854}
+  - {label: Green, occluded: false, x_max: 548.3418657476, x_min: 532.3025828455,
+    y_max: 129.5494600924, y_min: 78.2094307082}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627224.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 715.0618592334, x_min: 710.8268928995,
+    y_max: 328.2611314985, y_min: 315.7326894275}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627434.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 699.0512269628, x_min: 694.1104329066,
+    y_max: 313.8310513472, y_min: 300.0674107621}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627502.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 739.0250379461, x_min: 733.4572928344,
+    y_max: 310.6339883726, y_min: 298.4013835084}
+  - {label: Green, occluded: false, x_max: 790.2525705697, x_min: 782.1936604077,
+    y_max: 298.1552443343, y_min: 278.1892494686}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627572.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/627988.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/629920.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/629988.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/630058.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/630128.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/630544.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/637398.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/643310.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/678126.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680488.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680558.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680626.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680696.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680766.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 617.7577565264, x_min: 612.456800701, y_max: 299.039855054,
+    y_min: 287.8489483116}
+  - {label: Green, occluded: false, x_max: 703.1618704694, x_min: 698.4666989526,
+    y_max: 325.1948970323, y_min: 314.0747539661}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/680974.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 628.4433163958, x_min: 622.8494726888,
+    y_max: 284.3664891046, y_min: 270.7910864692}
+  - {label: Green, occluded: true, x_max: 755.7036744253, x_min: 748.6225680562, y_max: 313.8468941595,
+    y_min: 298.5543336293}
+  - {label: Green, occluded: false, x_max: 739.328409388, x_min: 732.609263261, y_max: 316.917851895,
+    y_min: 300.442244082}
+  - {label: RedLeft, occluded: false, x_max: 550.2178708313, x_min: 545.5237963283,
+    y_max: 279.7775582613, y_min: 267.7489923474}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/681044.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/681530.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/681876.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/682016.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 673.9240109886, x_min: 668.0978814828,
+    y_max: 324.2756783794, y_min: 313.1192601768}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/682502.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 687.5952792342, x_min: 678.2538206142,
+    y_max: 325.159805948, y_min: 311.6028612918}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/682572.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 591.8182018039, x_min: 576.2861369695,
+    y_max: 203.8260659907, y_min: 169.5484056665}
+  - {label: RedLeft, occluded: false, x_max: 455.2431489498, x_min: 441.3178494431,
+    y_max: 201.6837122204, y_min: 167.9416403388}
+  - {label: Green, occluded: false, x_max: 909.4006580539, x_min: 888.4061829158,
+    y_max: 271.8243596258, y_min: 226.2363564688}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/682920.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683058.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683266.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683544.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683614.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683684.png
+- boxes:
+  - {label: 'off', occluded: false, x_max: 392.1963706688, x_min: 381.1818779151,
+    y_max: 284.0291771451, y_min: 267.1402882562}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683752.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683822.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/683892.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/684030.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/684100.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 611.0611823409, x_min: 603.0830173188,
+    y_max: 266.3239473216, y_min: 249.2506741744}
+  - {label: Red, occluded: false, x_max: 540.1796572583, x_min: 531.1803537988, y_max: 266.8635150679,
+    y_min: 248.1590804266}
+  - {label: Green, occluded: false, x_max: 849.6063573914, x_min: 837.9989004797,
+    y_max: 291.3434802502, y_min: 265.8070750444}
+  - {label: Green, occluded: false, x_max: 745.139245186, x_min: 734.9246831037, y_max: 306.6653233736,
+    y_min: 290.4148836972}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/684794.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 572.3855259288, x_min: 566.6817991518,
+    y_max: 294.483802454, y_min: 282.7634131227}
+  - {label: Red, occluded: false, x_max: 620.7227565678, x_min: 615.3680129991, y_max: 292.5190260582,
+    y_min: 280.3151918783}
+  - {label: Green, occluded: false, x_max: 683.4853323502, x_min: 677.0098284996,
+    y_max: 309.2059013655, y_min: 297.0020671855}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/685350.png
+- boxes:
+  - {label: Yellow, occluded: false, x_max: 577.2631157567, x_min: 570.3861191079,
+    y_max: 288.9541381569, y_min: 274.4779476807}
+  - {label: Red, occluded: false, x_max: 628.1774096311, x_min: 622.2000214613, y_max: 289.2509419297,
+    y_min: 277.2961655902}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/685420.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 626.7157256849, x_min: 620.8306667917, y_max: 285.7614057622,
+    y_min: 273.8177958708}
+  - {label: Red, occluded: false, x_max: 571.2998140069, x_min: 565.5036503831, y_max: 285.7614057622,
+    y_min: 273.3976925579}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/685490.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 615.5762535361, x_min: 608.611829992, y_max: 291.6830103862,
+    y_min: 276.903970354}
+  - {label: Green, occluded: false, x_max: 709.4205703635, x_min: 701.5978323485,
+    y_max: 314.3515199109, y_min: 297.6890430697}
+  - {label: Green, occluded: false, x_max: 693.777248564, x_min: 686.7495363761, y_max: 316.6916134875,
+    y_min: 302.5556748233}
+  - {label: RedLeft, occluded: false, x_max: 555.2029615322, x_min: 549.6600750402,
+    y_max: 286.2729726276, y_min: 273.7819608146}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/686294.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 700.818299777, x_min: 694.0002047207, y_max: 319.6584526068,
+    y_min: 308.3433161304}
+  - {label: Green, occluded: false, x_max: 718.2262020484, x_min: 710.5377118785,
+    y_max: 316.1768721526, y_min: 303.8462747103}
+  - {label: Green, occluded: false, x_max: 617.1153030219, x_min: 610.2972079656,
+    y_max: 291.515677268, y_min: 280.9258700529}
+  - {label: Red, occluded: false, x_max: 553.4313938789, x_min: 548.2090231975, y_max: 289.4847553364,
+    y_min: 279.0400139735}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/686364.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 608.1175627649, x_min: 599.555091671, y_max: 284.4310038913,
+    y_min: 268.5928234463}
+  - {label: Red, occluded: false, x_max: 536.6679672293, x_min: 530.1236820893, y_max: 282.7408564398,
+    y_min: 267.8835604462}
+  - {label: Green, occluded: false, x_max: 699.9340110026, x_min: 693.3770654472,
+    y_max: 316.3466449967, y_min: 301.8396901662}
+  - {label: Green, occluded: false, x_max: 723.584072731, x_min: 716.6190907161, y_max: 311.9032433453,
+    y_min: 293.8864687962}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/686434.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/686990.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687058.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687128.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687198.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687268.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687336.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687406.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687544.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 699.0221752615, x_min: 691.4783526638, y_max: 315.7190565149,
+    y_min: 301.2734387747}
+  - {label: Red, occluded: false, x_max: 613.6075579766, x_min: 608.5156121462, y_max: 292.5836678102,
+    y_min: 281.5330619656}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687614.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 530.9749959218, x_min: 522.9586638361,
+    y_max: 275.7737241187, y_min: 259.4824685897}
+  - {label: Red, occluded: false, x_max: 597.7892396815, x_min: 592.142617903, y_max: 275.5842339364,
+    y_min: 264.6439042406}
+  - {label: Red, occluded: false, x_max: 705.7626013903, x_min: 699.0609427718, y_max: 309.1357874326,
+    y_min: 294.6155270925}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687822.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 740.1787681351, x_min: 731.1006066186, y_max: 284.7998395041,
+    y_min: 270.7878945547}
+  - {label: Red, occluded: false, x_max: 711.957526899, x_min: 703.0767167198, y_max: 299.9958924774,
+    y_min: 283.6157314802}
+  - {label: RedLeft, occluded: false, x_max: 509.9452982745, x_min: 502.3576502596,
+    y_max: 262.3732403192, y_min: 245.0804611226}
+  - {label: Red, occluded: false, x_max: 587.4098907983, x_min: 581.5868120892, y_max: 262.3732403192,
+    y_min: 247.1979442895}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687892.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 499.0475417955, x_min: 491.6602074803,
+    y_max: 252.8183121384, y_min: 235.1334815051}
+  - {label: Red, occluded: false, x_max: 588.1432708087, x_min: 580.532077878, y_max: 253.042170754,
+    y_min: 238.0436435081}
+  - {label: Red, occluded: false, x_max: 729.3980572594, x_min: 721.3391470974, y_max: 303.4103592666,
+    y_min: 281.4722149367}
+  - {label: Red, occluded: false, x_max: 769.916466685, x_min: 760.0666875981, y_max: 285.9493872489,
+    y_min: 264.011242919}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/687962.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 488.7283424273, x_min: 479.5501391872,
+    y_max: 244.6645234928, y_min: 224.2933894722}
+  - {label: Red, occluded: false, x_max: 587.0022746806, x_min: 578.719505903, y_max: 245.7838165708,
+    y_min: 225.4126825502}
+  - {label: Red, occluded: false, x_max: 743.4794469928, x_min: 735.1966782152, y_max: 297.9428740082,
+    y_min: 276.4524469096}
+  - {label: Red, occluded: false, x_max: 795.190787199, x_min: 788.0273114994, y_max: 276.228588294,
+    y_min: 252.2757164236}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/688032.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 587.7188577956, x_min: 576.5994294186, y_max: 238.5836181203,
+    y_min: 213.5002564326}
+  - {label: RedLeft, occluded: false, x_max: 480.1448530321, x_min: 471.3527468735,
+    y_max: 238.5836181203, y_min: 214.0174391479}
+  - {label: Red, occluded: false, x_max: 816.6583295257, x_min: 803.8042069042, y_max: 274.8938702253,
+    y_min: 236.8670908032}
+  - {label: Red, occluded: false, x_max: 751.7724634882, x_min: 743.523820173, y_max: 297.8455656771,
+    y_min: 267.8504990762}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/688100.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 475.3890822469, x_min: 464.6754258592, y_max: 240.775874095,
+    y_min: 215.4648608791}
+  - {label: Green, occluded: false, x_max: 584.7210099038, x_min: 574.4865079303,
+    y_max: 240.740933383, y_min: 216.7427908244}
+  - {label: Green, occluded: false, x_max: 830.2079571359, x_min: 813.2680918004,
+    y_max: 277.8819764021, y_min: 243.2964180088}
+  - {label: Green, occluded: false, x_max: 757.6841586683, x_min: 747.0967428336,
+    y_max: 298.7038942103, y_min: 273.1176392765}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689422.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 456.0397536067, x_min: 443.6273684416, y_max: 233.4395716643,
+    y_min: 203.7015655398}
+  - {label: Green, occluded: false, x_max: 576.4140305716, x_min: 565.5531935522,
+    y_max: 234.4739370947, y_min: 203.9601568974}
+  - {label: Green, occluded: false, x_max: 868.2235858503, x_min: 846.4918097729,
+    y_max: 271.9666934471, y_min: 220.8511074624}
+  - {label: Green, occluded: false, x_max: 770.5987001754, x_min: 758.2467150349,
+    y_max: 296.5552525097, y_min: 268.8515144089}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689492.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 399.7651281393, x_min: 382.5955617929,
+    y_max: 204.5450020344, y_min: 165.8641399206}
+  - {label: Green, occluded: false, x_max: 556.7071366131, x_min: 539.815011685, y_max: 202.6830778156,
+    y_min: 166.1320143934}
+  - {label: Green, occluded: false, x_max: 805.8880916049, x_min: 788.7185252585,
+    y_max: 281.3739456007, y_min: 248.4162722691}
+  - {label: Green, occluded: false, x_max: 1005.8217128324, x_min: 968.8661102954,
+    y_max: 221.2399909439, y_min: 155.3626125084}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689562.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 731.1427831624, x_min: 721.7957846265,
+    y_max: 300.4032181029, y_min: 282.1543161995}
+  - {label: Green, occluded: false, x_max: 707.1076440702, x_min: 700.8763117129,
+    y_max: 299.0679325978, y_min: 287.2729106359}
+  - {label: Green, occluded: false, x_max: 619.8689910687, x_min: 611.6347304538,
+    y_max: 278.1484596842, y_min: 262.5701287911}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689840.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 614.5327686767, x_min: 605.1857701408,
+    y_max: 259.453104504, y_min: 240.5365598481}
+  - {label: Green, occluded: false, x_max: 623.9077608865, x_min: 620.28111458, y_max: 299.2659285288,
+    y_min: 290.5619773931}
+  - {label: Green, occluded: false, x_max: 718.0295658375, x_min: 711.1305907277,
+    y_max: 284.5499936087, y_min: 273.2000668152}
+  - {label: Green, occluded: false, x_max: 754.3048220601, x_min: 742.5098000981,
+    y_max: 284.5499936087, y_min: 260.0697593481}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689908.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 784.1678416107, x_min: 769.79805083, y_max: 278.3113049511,
+    y_min: 250.2453073324}
+  - {label: Green, occluded: false, x_max: 733.0877259448, x_min: 725.4537745925,
+    y_max: 281.3424326939, y_min: 269.6669776845}
+  - {label: Green, occluded: false, x_max: 616.4454398417, x_min: 607.2397926228,
+    y_max: 251.5924752181, y_min: 231.6094849137}
+  - {label: Green, occluded: false, x_max: 627.4318028719, x_min: 623.6148271958,
+    y_max: 297.9025946326, y_min: 289.8195873185}
+  - {label: Green, occluded: false, x_max: 595.997885539, x_min: 591.731853901, y_max: 298.8007065564,
+    y_min: 290.4931712613}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/689978.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 823.2218220136, x_min: 806.7064928006,
+    y_max: 273.3752576821, y_min: 235.2323505576}
+  - {label: Green, occluded: false, x_max: 762.1280831837, x_min: 750.7984020834,
+    y_max: 280.2849125871, y_min: 258.8008329902}
+  - {label: Green, occluded: false, x_max: 632.0547029753, x_min: 622.3300034793,
+    y_max: 248.0398563638, y_min: 225.5194996363}
+  - {label: Red, occluded: false, x_max: 611.1906873356, x_min: 608.2226165816, y_max: 300.5835120001,
+    y_min: 291.4814283545}
+  - {label: Green, occluded: false, x_max: 643.8394656297, x_min: 639.8820379577,
+    y_max: 299.7920264657, y_min: 290.8878142037}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/690048.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 636.4785623734, x_min: 623.9165789023,
+    y_max: 242.9456489991, y_min: 216.8553756361}
+  - {label: Green, occluded: false, x_max: 845.6271871521, x_min: 826.0632260279,
+    y_max: 268.0673545207, y_min: 227.5420064776}
+  - {label: Green, occluded: false, x_max: 774.3933977031, x_min: 761.0316502337,
+    y_max: 276.7474557067, y_min: 256.6373509295}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/690116.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 639.5783263309, x_min: 625.9466445693,
+    y_max: 241.1277080889, y_min: 213.1895088348}
+  - {label: Green, occluded: false, x_max: 879.4529407484, x_min: 858.7726686396,
+    y_max: 266.5838636616, y_min: 218.4487475462}
+  - {label: Green, occluded: false, x_max: 789.7528981013, x_min: 774.9065120243,
+    y_max: 277.5708083052, y_min: 253.2767219972}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/690186.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 625.981631758, x_min: 620.6742080446, y_max: 292.9799155475,
+    y_min: 280.7497652515}
+  - {label: Red, occluded: false, x_max: 576.9301177819, x_min: 573.2113117144, y_max: 292.3431588013,
+    y_min: 280.9388201942}
+  - {label: Green, occluded: false, x_max: 713.4574270896, x_min: 707.1956911249,
+    y_max: 316.5954205767, y_min: 303.7807051139}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/690882.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/692340.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/697962.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 647.7129004454, x_min: 642.5065719509,
+    y_max: 286.8933110608, y_min: 275.2410520492}
+  - {label: Green, occluded: false, x_max: 755.0919818122, x_min: 749.7494544549,
+    y_max: 318.9881240912, y_min: 308.3030693768}
+  - {label: Green, occluded: false, x_max: 682.6809205638, x_min: 677.2557683488,
+    y_max: 295.5689897046, y_min: 279.4530963601}
+  - {label: 'off', occluded: false, x_max: 604.7244364497, x_min: 600.6318139403,
+    y_max: 286.3659633306, y_min: 275.5614399057}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/700144.png
+- boxes:
+  - {label: GreenLeft, occluded: false, x_max: 528.6536331413, x_min: 514.7283336346,
+    y_max: 217.7925542606, y_min: 190.4775436898}
+  - {label: Green, occluded: false, x_max: 625.059552803, x_min: 612.741018624, y_max: 218.8637311457,
+    y_min: 191.0131321323}
+  - {label: Green, occluded: false, x_max: 700.6538817664, x_min: 689.0245159619,
+    y_max: 233.324619095, y_min: 203.8672547539}
+  - {label: Green, occluded: false, x_max: 861.4484555804, x_min: 853.1656868028,
+    y_max: 289.8824992749, y_min: 263.2433240172}
+  - {label: Green, occluded: false, x_max: 952.3350535186, x_min: 939.3512538131,
+    y_max: 271.0783755636, y_min: 233.4701281409}
+  - {label: Green, occluded: false, x_max: 201.1251941428, x_min: 189.284416718, y_max: 311.386982011,
+    y_min: 296.832693093}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/700352.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 998.8501019595, x_min: 979.9615232606, y_max: 265.4106277724,
+    y_min: 219.7110144755}
+  - {label: Red, occluded: false, x_max: 856.8405859183, x_min: 844.2183121395, y_max: 286.5703835651,
+    y_min: 266.7424005245}
+  - {label: Red, occluded: false, x_max: 688.5799670218, x_min: 678.1154889244, y_max: 221.6435401935,
+    y_min: 196.1531448281}
+  - {label: Red, occluded: false, x_max: 593.3013142868, x_min: 583.2338886208, y_max: 208.8224632492,
+    y_min: 182.1218995264}
+  - {label: Red, occluded: false, x_max: 465.0885466346, x_min: 456.5023081957, y_max: 206.9391029342,
+    y_min: 181.046227642}
+  - {label: RedLeft, occluded: true, x_max: 43.0669854591, x_min: 28.915398782, y_max: 302.0988561659,
+    y_min: 275.1909096671}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/707012.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 460.2405735473, x_min: 445.5486685936,
+    y_max: 213.754585268, y_min: 181.3099618286}
+  - {label: Green, occluded: false, x_max: 591.3778294573, x_min: 579.7297085251,
+    y_max: 213.5936221771, y_min: 184.9237524852}
+  - {label: Green, occluded: false, x_max: 691.5556433579, x_min: 678.9670971024,
+    y_max: 226.6586046381, y_min: 196.7942874574}
+  - {label: Green, occluded: false, x_max: 1033.0113092117, x_min: 1007.3620590143,
+    y_max: 271.9557881967, y_min: 213.9150620721}
+  - {label: Green, occluded: false, x_max: 870.2941243662, x_min: 857.3038159962,
+    y_max: 296.9631023324, y_min: 275.4018688522}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/707348.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/707834.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 596.1336309335, x_min: 587.4501720916,
+    y_max: 254.2333658565, y_min: 235.2876374742}
+  - {label: Green, occluded: true, x_max: 751.0544307257, x_min: 743.1603772331, y_max: 304.5579568718,
+    y_min: 285.2773174724}
+  - {label: Green, occluded: true, x_max: 777.7583695825, x_min: 765.2303978599, y_max: 299.6241734389,
+    y_min: 274.4195605962}
+  - {label: GreenLeft, occluded: false, x_max: 522.521582115, x_min: 513.6407719358,
+    y_max: 256.0095278923, y_min: 238.4452588713}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/711516.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/711724.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/713392.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/713460.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/713530.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/713600.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/713670.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 601.0299741795, x_min: 595.1906261004,
+    y_max: 320.7993522357, y_min: 316.8040088132}
+  - {label: Green, occluded: false, x_max: 595.1906261004, x_min: 590.5806144589,
+    y_max: 329.0973731903, y_min: 325.7166979866}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/717528.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 616.2204234877, x_min: 611.9207492206,
+    y_max: 316.9891300171, y_min: 310.91900164}
+  - {label: Green, occluded: false, x_max: 611.6678272049, x_min: 607.8739969692,
+    y_max: 326.3472445984, y_min: 322.300492347}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/717598.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 610.4785326016, x_min: 605.8685209602,
+    y_max: 320.1785807618, y_min: 313.4172303543}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/717668.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 637.6418602841, x_min: 630.8438464607,
+    y_max: 282.6132365731, y_min: 266.3868647448}
+  - {label: Green, occluded: false, x_max: 728.2567604283, x_min: 720.8484418306,
+    y_max: 316.1121402344, y_min: 299.773245793}
+  - {label: Green, occluded: false, x_max: 749.1602502603, x_min: 741.9548992955,
+    y_max: 309.6016211181, y_min: 293.7767702264}
+  - {label: Red, occluded: false, x_max: 613.6393169096, x_min: 608.7219711587, y_max: 321.4899012037,
+    y_min: 311.655209702}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/718154.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 632.0584964581, x_min: 623.8010336807,
+    y_max: 268.159555705, y_min: 248.2838663064}
+  - {label: Green, occluded: false, x_max: 748.1885713579, x_min: 739.3660826612,
+    y_max: 309.4535101953, y_min: 290.7705929553}
+  - {label: Green, occluded: false, x_max: 789.9500093587, x_min: 779.570610892, y_max: 299.7428589412,
+    y_min: 272.0930372443}
+  - {label: Green, occluded: false, x_max: 399.7725569759, x_min: 390.1187295746,
+    y_max: 319.1471584895, y_min: 296.6215612199}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/718224.png
+- boxes:
+  - {label: RedLeft, occluded: false, x_max: 608.4762367159, x_min: 605.7978226189,
+    y_max: 312.8670563666, y_min: 308.3137524018}
+  - {label: Green, occluded: false, x_max: 632.4480428833, x_min: 626.8233732797,
+    y_max: 318.7595673798, y_min: 312.8670563666}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/718500.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/718570.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 631.5423063619, x_min: 625.0906934587,
+    y_max: 305.9493639401, y_min: 297.8848478111}
+  - {label: Red, occluded: false, x_max: 597.5100482974, x_min: 591.8648870071, y_max: 303.5300091014,
+    y_min: 294.1751703917}
+  - {label: Green, occluded: false, x_max: 682.380288117, x_min: 676.255288117, y_max: 325.8712902524,
+    y_min: 317.3712902524}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/718710.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/719266.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/719752.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/719820.png
+- boxes: []
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/719890.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 825.9333425177, x_min: 817.4711834085,
+    y_max: 313.0161936755, y_min: 303.8181946437}
+  - {label: Green, occluded: false, x_max: 825.6880625436, x_min: 816.1221435505,
+    y_max: 321.2330728106, y_min: 313.5067536239}
+  - {label: Green, occluded: false, x_max: 762.2344487601, x_min: 757.2126310316,
+    y_max: 294.7131447636, y_min: 283.6272452498}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720030.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 595.7664938188, x_min: 590.8532580243, y_max: 302.7474143287,
+    y_min: 293.438125455}
+  - {label: Red, occluded: false, x_max: 628.5802561792, x_min: 623.0895072805, y_max: 302.7249043498,
+    y_min: 292.8147721912}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720376.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 593.2297264419, x_min: 586.9354533141, y_max: 302.4124884492,
+    y_min: 292.1005941761}
+  - {label: Red, occluded: false, x_max: 630.1918409793, x_min: 624.9689334903, y_max: 302.0107263347,
+    y_min: 292.2345148809}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720446.png
+- boxes:
+  - {label: Red, occluded: false, x_max: 594.5828648886, x_min: 587.7650537648, y_max: 294.9236822377,
+    y_min: 282.6516222148}
+  - {label: Red, occluded: false, x_max: 638.0928958786, x_min: 630.5313235413, y_max: 293.5601200129,
+    y_min: 281.5359803946}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720516.png
+- boxes:
+  - {label: GreenStraight, occluded: false, x_max: 564.9650182393, x_min: 559.7158815841,
+    y_max: 299.9243065291, y_min: 284.5518348962}
+  - {label: Green, occluded: false, x_max: 513.5984666853, x_min: 506.8495767001,
+    y_max: 298.0496148666, y_min: 288.3012182213}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720586.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 599.8604978034, x_min: 586.5847683868,
+    y_max: 261.69524745, y_min: 236.9243642116}
+  - {label: Green, occluded: false, x_max: 511.9547776986, x_min: 501.9086528329,
+    y_max: 262.2576047834, y_min: 232.705986926}
+  - {label: Green, occluded: true, x_max: 721.1286319081, x_min: 703.8085009043, y_max: 276.7248481167,
+    y_min: 236.7560899808}
+  - {label: Green, occluded: true, x_max: 759.7569993417, x_min: 748.5254722481, y_max: 302.9026899701,
+    y_min: 280.0830793672}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720724.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 613.1936185569, x_min: 599.9679809287,
+    y_max: 235.5993755443, y_min: 202.1351370115}
+  - {label: Green, occluded: false, x_max: 494.7423086724, x_min: 481.19195095, y_max: 235.4262280654,
+    y_min: 201.6887825153}
+  - {label: Green, occluded: false, x_max: 846.94845433, x_min: 813.9141895108, y_max: 223.3782344586,
+    y_min: 141.1732131224}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720794.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 919.4230770071, x_min: 899.183249997, y_max: 272.4655171591,
+    y_min: 226.9400307839}
+  - {label: Green, occluded: false, x_max: 598.3584658523, x_min: 577.2528356431,
+    y_max: 186.3130926764, y_min: 139.8358006199}
+  - {label: Green, occluded: false, x_max: 423.7506165752, x_min: 402.3058729247,
+    y_max: 186.7784811305, y_min: 141.2930329349}
+  path: ./rgb/additional/2015-10-05-16-02-30_bag/720862.png
