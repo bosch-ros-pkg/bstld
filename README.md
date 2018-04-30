@@ -13,7 +13,7 @@ Update label files are in the label_files folder.
 
 ### Sample Detections
 A sample detection based on an adapted Yolo v1 model run on crops can be viewed at
-[![Sample Detector View](https://github.com/bosch-ros-pkg/bstld/blob/master/images/yolo_detection_sample.jpg)](https://youtu.be/EztVEj2KnXk/0.jpg)]
+[![Sample Detector View](https://github.com/bosch-ros-pkg/bstld/blob/master/images/yolo_detection_sample.jpg)](https://youtu.be/EztVEj2KnXk)]
 
 ### Citation
 ```
