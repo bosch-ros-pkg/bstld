@@ -79,8 +79,8 @@ def quick_stats(input_yaml):
     print('maximum size:', max(sizes), '\n')
 
     print('Labels:')
-    for k, l in appearances.items():
-        print('\t{k}: {l}'.format(k=k, l=l))
+    for key, label in appearances.items():
+        print('\t{}: {}'.format(key, label))
 
 
 if __name__ == '__main__':
