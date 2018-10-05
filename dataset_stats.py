@@ -3,7 +3,7 @@
 Sample script to show some numbers for the dataset.
 
 Example usage:
-    python yaml_stats.py input_yaml
+    python dataset_stats.py input_yaml
 """
 
 import sys
