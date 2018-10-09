@@ -10485,8 +10485,8 @@
     y_max: 309.9256324131, y_min: 297.3849495046}
   - {label: Green, occluded: false, x_max: 598.9207546893, x_min: 592.1995969779,
     y_max: 275.9025806451, y_min: 262.283392651}
-  - {label: Green, occluded: false, x_max: 785.1169839057, x_min: 786.2394607942,
-    y_max: 286.8550689898, y_min: 287.1045082984}
+  - {label: Green, occluded: false, x_max: 786.2394607942, x_min: 785.1169839057,
+    y_max: 287.1045082984, y_min: 286.8550689898}
   path: ./rgb/train/2015-10-05-11-26-32_bag/108372.png
 - boxes:
   - {label: Green, occluded: false, x_max: 719.2389243093, x_min: 712.8715117406,
