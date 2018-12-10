@@ -25,7 +25,6 @@ Note that this is a tutorial file. There are only few checks and no logging.
 import argparse
 from collections import OrderedDict, defaultdict
 import hashlib
-import multiprocessing
 import os
 from random import shuffle
 
@@ -66,7 +65,7 @@ def clip(some_value):
     return max(0, min(some_value, 1))
 
 
-def create_object_detection_tfrecords(labels, tfrecords_path, dataset_folder):
+def create_object_detection_tfrecords(labels, tfrecords_path, dataset_folder, set_name=''):
     """ Creates a tfrecord dataset specific to tensorflow/models/research/objection_detection
     params:
         labels: list of annotations as defined in annotation yamls
@@ -76,9 +75,12 @@ def create_object_detection_tfrecords(labels, tfrecords_path, dataset_folder):
 
     shuffle(labels)
     writer = tf.python_io.TFRecordWriter(tfrecords_path)
-    for label in tqdm.tqdm(labels):
+    for label in tqdm.tqdm(labels, desc='Creating {}-set'.format(set_name)):
         image_path = os.path.join(dataset_folder, label['path'])
         image = cv2.imread(image_path)
+        if image is None:
+            print('Did you extract the training, validation, and additional images?')
+            raise IOError('Missing: {}'.format(image_path))
         height, width, _ = image.shape
 
         boxes = list_of_dicts_to_dict_of_lists(label['boxes'])
@@ -121,7 +123,8 @@ def create_object_detection_tfrecords(labels, tfrecords_path, dataset_folder):
 
 
 def split_train_labels(train_labels):
-    train_videos = list(map(lambda x: x['path'].split('/')[-2], train_labels))
+    # one entry for each image in a folder/video to check their sizes later
+    train_videos = [train_label['path'].split('/')[-2] for train_label in train_labels]
     # NOTE Because set order is not guaranteed (and we want to support different Python versions)
     video_dict = OrderedDict().fromkeys(train_videos)
     video_lengths = [train_videos.count(video) for video in video_dict.keys()]
@@ -154,18 +157,13 @@ def create_datasets(config):
         print('Dataset_folder needs to contain extracted dataset, including the rgb folder')
         print('{} does not fulfill those requirements'.format(config['dataset_folder']))
 
-    args = [(train_labels, config['train_tfrecord'], config['dataset_folder']),
-            (valid_labels, config['valid_tfrecord'], config['dataset_folder']),
-            (test_labels, config['test_tfrecord'], config['dataset_folder'])]
+    create_object_detection_tfrecords(
+        train_labels, config['train_tfrecord'], config['dataset_folder'], 'train')
+    create_object_detection_tfrecords(
+        valid_labels, config['valid_tfrecord'], config['dataset_folder'], 'valid')
+    create_object_detection_tfrecords(
+        test_labels, config['test_tfrecord'], config['dataset_folder'], 'test')
 
-    jobs = []
-    for arg in args:
-        proc = multiprocessing.Process(target=create_object_detection_tfrecords, args=arg)
-        jobs.append(proc)
-        proc.start()
-
-    for job in jobs:
-        job.join()
     print('Done creating tfrecords')
 
 

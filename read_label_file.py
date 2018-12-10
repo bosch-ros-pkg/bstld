@@ -25,7 +25,11 @@ def get_all_labels(input_yaml, riib=False, clip=True):
     Returns: Labels for traffic lights
     """
     assert os.path.isfile(input_yaml), "Input yaml {} does not exist".format(input_yaml)
-    images = yaml.load(open(input_yaml, 'rb').read())
+    with open(input_yaml, 'rb') as iy_handle:
+        images = yaml.load(iy_handle)
+
+    if not images or not isinstance(images[0], dict) or 'path' not in images[0]:
+        raise ValueError('Something seems wrong with this label-file: {}'.format(input_yaml))
 
     for i in range(len(images)):
         images[i]['path'] = os.path.abspath(os.path.join(os.path.dirname(input_yaml),
