@@ -124,7 +124,8 @@ def create_object_detection_tfrecords(labels, tfrecords_path, dataset_folder, se
 
 def split_train_labels(train_labels):
     # one entry for each image in a folder/video to check their sizes later
-    train_videos = [train_label['path'].split('/')[-2] for train_label in train_labels]
+    train_videos = [os.path.split(os.path.split(train_label['path'])[0])[1]
+                    for train_label in train_labels]
     # NOTE Because set order is not guaranteed (and we want to support different Python versions)
     video_dict = OrderedDict().fromkeys(train_videos)
     video_lengths = [train_videos.count(video) for video in video_dict.keys()]
