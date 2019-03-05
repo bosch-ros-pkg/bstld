@@ -29,8 +29,8 @@ A sample detection based on an adapted Yolo v1 model run on crops can be viewed 
 | ------ | -------------- | ------------ | --- | --- | ----- | ------ | --- | ------------- | ---- |
 | Baseline | <100 ms | 0.36 |  |  |  |  |  | no |https://ieeexplore.ieee.org/document/7989163/|
 | Hierarchical Deep Architecture | ~150 ms | 0.53 |  |  |  |  |  | no | https://arxiv.org/abs/1806.07987 |
-| SSD Mobilenet V1 | 38 ms | 0.60 | 0.41 | 0.00 | 0.68 | 0.41 | 0.55 | no | https://github.com/bosch-ros-pkg/bstld/configs/faster_rcnn_nas.config |
-| Faster RCNN NAS-A | ~1560s | 0.65 | 0.43 | 0.00 |  0.71  | 0.33 | 0.66 | no | https://github.com/bosch-ros-pkg/bstld/configs/faster_rcnn_nas.config  |
+| SSD Mobilenet V1 | 38 ms | 0.60 | 0.41 | 0.00 | 0.68 | 0.41 | 0.55 | no | https://github.com/bosch-ros-pkg/bstld/blob/master/tf_object_detection/configs/ssd_mobilenet_v1.config |
+| Faster RCNN NAS-A | ~1560s | 0.65 | 0.43 | 0.00 |  0.71  | 0.33 | 0.66 | no | https://github.com/bosch-ros-pkg/bstld/blob/master/tf_object_detection/configs/faster_rcnn_nas.config  |
 
 Values are self-reported. The evaluation is performed on the test-set without empty frames. For different goals, e.g. using minimal training data, using external data only, or others, new tables can be created. We specifically encourage non-conventional approaches.
 Please make sure not to incorporate the test-set into your training, which includes multiple evaluations for different checkpoints of the same method. We understand that there can be larger variations between the different class average precisions, specifically due to the biased distribution. We will try to incorporate variations in results of the same method once reported.
