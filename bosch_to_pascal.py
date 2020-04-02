@@ -21,7 +21,7 @@ def write_xml(savedir, image, imgWidth, imgHeight,
     impath = image['path']
     imagename = impath.split('/')[-1]
     currentfolder = savedir.split("\\")[-1]
-    annotation = ET.Element("annotaion")
+    annotation = ET.Element("annotation")
     ET.SubElement(annotation, 'folder').text = str(currentfolder)
     ET.SubElement(annotation, 'filename').text = str(imagename)
     imagename = imagename.split('.')[0]
